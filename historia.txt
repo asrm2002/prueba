@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Hola buenas noches, estoy iniciando el repositorio
 
 soy demasiado bueno en esto
+=======
+Hola buenos dias, estoy iniciando el repositorio
+
+soy un pro en esto
+>>>>>>> nuevarama
